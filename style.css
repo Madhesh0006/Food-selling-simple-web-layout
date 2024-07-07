@@ -1,0 +1,85 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.header{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:15px;
+
+}
+ul,li{
+    display:inline;
+}
+li:hover{
+    color:grey;
+    cursor:pointer;
+}
+img{
+    
+    height:220px;
+    width:150px;
+
+}
+.box{
+    border-color:black;
+    border-width:2px;
+    border-style:solid;
+    width:150px;
+    text-align:center;
+    display:inline-block;
+    
+}
+#button{
+    background-color:black;
+    color:white;
+    padding:5px;
+    padding-left:10px;
+    padding-right:10px;
+    
+    margin-bottom:5px;
+}
+.foods{
+    
+    text-align:center;
+    margin-top:50px;
+
+}
+.box:hover{
+    background-color:grey;
+    color:white;
+
+}
+#button:hover{
+    background:orange;
+    color:black;
+}
+.contact{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:100px;
+    margin-bottom:0px;
+    margin-top:100px;
+
+}
+table{
+    display:inline;
+    align-items:center;
+}
+#send{
+    padding-left:150px;
+    padding-right:150px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color:orange;
+
+}
+#send:hover{
+    background-color:yellow;
+    color:black;
+}
+
+
+
